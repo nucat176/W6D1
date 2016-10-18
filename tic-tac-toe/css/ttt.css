@@ -1,0 +1,25 @@
+ul {
+  float: left;
+  height: 900px;
+  width: 900px;
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  height: 290px;
+  width: 290px;
+  background-color: gray;
+  border: solid black;
+}
+
+li:hover {
+  background-color: yellow;
+}
+
+li.clicked {
+  font-size: 200px;
+  text-align: center;
+  vertical-align: middle;
+  background-color: white;
+}

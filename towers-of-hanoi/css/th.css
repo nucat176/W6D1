@@ -1,0 +1,18 @@
+ul {
+  height: 900px;
+  width: 900px;
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  height: 290px;
+  width: 290px;
+  border: solid black;
+}
+
+.disk {
+  background-color: blue;
+  font-size: 200px;
+  text-align: center;
+}
